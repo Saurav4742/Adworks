@@ -17,6 +17,7 @@ Tech Stack: MERN
     Jainesh Machhi
     Krunal Javiya
     Parth Sharma
+    Saurav patel
     
   How to get Started 
   1) clone the repo or download the source code
