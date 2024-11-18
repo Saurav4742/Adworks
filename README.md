@@ -1,8 +1,5 @@
 # adworks-gwoc
 
-
-Team Name :Fantastic 4
-Project: Adworks
 website link : https://adworks-frontend.vercel.app/home
 Tech Stack: MERN
 
@@ -12,12 +9,7 @@ Tech Stack: MERN
 	other middlewares: 
 		Multer for file handling
 		Redux for state management in frontend
-    
-   Team Members:
-    Jainesh Machhi
-    Krunal Javiya
-    Parth Sharma
-    Saurav patel
+
     
   How to get Started 
   1) clone the repo or download the source code
